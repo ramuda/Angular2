@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+#Library
+node_modules
+node_modules/*
+typings
+typings/*
+
+#JS
+*.js
+*.js.map
